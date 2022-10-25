@@ -11,11 +11,11 @@ struct ContentView: View {
     var body: some View {
         ScrollView {
                 Text("Im him")
-                .font(.tittle)
+                .font(.title)
                 .bold()
                 .padding(.top)
         }
-        .navigationTittle("Discover")
+        .navigationTitle("Discover")
     }
 }
 
