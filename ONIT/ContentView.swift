@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         ScrollView {
-                Text("Im him")
+                Text("MrKappin Kame to Kap")
                 .font(.title)
                 .bold()
                 .padding(.top)
