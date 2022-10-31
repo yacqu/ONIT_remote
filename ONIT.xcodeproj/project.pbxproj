@@ -15,6 +15,7 @@
 		15EB9F70290F998500BFBD3C /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = 15EB9F6C290F998500BFBD3C /* menu.json */; };
 		15EB9F71290F998500BFBD3C /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EB9F6D290F998500BFBD3C /* Helper.swift */; };
 		15EB9F72290F998500BFBD3C /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EB9F6E290F998500BFBD3C /* Menu.swift */; };
+		15EB9F74290F9D1400BFBD3C /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15EB9F73290F9D1400BFBD3C /* ItemRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		15EB9F6C290F998500BFBD3C /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		15EB9F6D290F998500BFBD3C /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		15EB9F6E290F998500BFBD3C /* Menu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		15EB9F73290F9D1400BFBD3C /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				15EB9F6D290F998500BFBD3C /* Helper.swift */,
 				15EB9F6C290F998500BFBD3C /* menu.json */,
+				15EB9F73290F9D1400BFBD3C /* ItemRow.swift */,
 				15EB9F6E290F998500BFBD3C /* Menu.swift */,
 				15EB9F6B290F998500BFBD3C /* Order.swift */,
 				1549AB91290514E100302A85 /* ONITApp.swift */,
@@ -153,6 +156,7 @@
 				15EB9F6F290F998500BFBD3C /* Order.swift in Sources */,
 				1549AB94290514E100302A85 /* ContentView.swift in Sources */,
 				1549AB92290514E100302A85 /* ONITApp.swift in Sources */,
+				15EB9F74290F9D1400BFBD3C /* ItemRow.swift in Sources */,
 				15EB9F71290F998500BFBD3C /* Helper.swift in Sources */,
 				15EB9F72290F998500BFBD3C /* Menu.swift in Sources */,
 			);
