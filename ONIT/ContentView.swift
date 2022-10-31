@@ -9,13 +9,14 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        ScrollView {
-                Text("MrKappin Kame to Kap")
-                .font(.title)
-                .bold()
-                .padding(.top)
+        NavigationView {
+                List{
+                    Text("Item 1 in list")
+                    Text("Item 2 in list")
+                    Text("Item 3 in list")
+                }
         }
-        .navigationTitle("Discover")
+        .navigationTitle("Menu")
     }
 }
 
