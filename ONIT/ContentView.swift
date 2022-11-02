@@ -3,7 +3,7 @@
 //  ONIT
 //
 //  Created by Yacqub Abdirahman on 10/22/22.
-//
+//https://www.hackingwithswift.com/quick-start/swiftui/composing-views-to-create-a-list-row
 
 import SwiftUI
 
