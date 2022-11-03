@@ -10,6 +10,7 @@ import SwiftUI
 struct ItemRow: View {
     let item: MenuItem
     let colors: [String: Color] = ["D": .purple, "G": .black, "N": .red, "S": .blue, "V": .green]
+    
 
     var body: some View{
         HStack {

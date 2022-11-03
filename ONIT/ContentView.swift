@@ -15,8 +15,15 @@ struct ContentView: View {
                 List {
                     ForEach(menu, id: \.id) { section in
                         Section(header: Text(section.name)){
+                            
                             ForEach(section.items, id: \.id) { item in
                                 ItemRow(item: item)
+                                NavigationLink(destination: ItemDetail(item: item)){
+                                    // existing contents
+                                    
+                                    
+                                    
+                                }
                             }
                         }
                         
