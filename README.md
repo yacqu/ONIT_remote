@@ -1,4 +1,4 @@
-ONIT - Food Ordering App
+# ONIT - Food Ordering App
 Welcome to ONIT, the Food Ordering App! This app allows you to browse through a menu of delicious dishes and place an order for pickup or delivery.
 
 Features
